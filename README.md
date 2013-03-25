@@ -20,7 +20,7 @@ will be built and deployed).
 
 This Clickstart uses the latest version of [Lift 2.5][16], currently Lift 2.5-RC2, 
 and will be updated as new versions are released.  It is based on CloudBees' 
-[default Lift 2.4 ClickStart][9] including a [MySQL][21] instance.  Please see the 
+[default Lift 2.4 ClickStart][9] including a [MySQL][22] instance.  Please see the 
 [PostgreSQL][20] and [No DB][18] Lift 2.5 ClickStarts if you prefer 
 MySQL or just Lift's built-in [H2 DB][8], or [CloudBees' docs on how to make your own ClickStart][17] 
 if you prefer something else.
